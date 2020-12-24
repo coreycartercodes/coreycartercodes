@@ -8,3 +8,7 @@
 - [<img align="left" alt="corey github" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][git-corey]
 - [<img align="left" alt="corey linkedin' | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin-corey]
 - [Alumni Portfolio](https://alumni.turing.io/alumni/corey-carter)
+
+
+[git-corey]: https://github.com/coreycartercodes
+[linkedin-corey]: https://www.linkedin.com/in/carter-codes/
